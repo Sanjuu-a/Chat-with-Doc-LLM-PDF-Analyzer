@@ -46,8 +46,13 @@ GROQ_API_KEY=your_groq_api_key_here
 streamlit run main.py
 ```
 
-### Working Demo:
-![llm_pdf_demo](https://github.com/user-attachments/assets/a540b157-9ad4-4eda-8872-822fb246ee8b)
+### 📸 Working Demo
+
+Watch the AI in action! Just upload your PDF 📄 and ask your questions 💬 — the bot reads and responds in real-time 🧠⚡
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a540b157-9ad4-4eda-8872-822fb246ee8b" width="700" alt="llm_pdf_demo"/>
+</p>
 
 
 
