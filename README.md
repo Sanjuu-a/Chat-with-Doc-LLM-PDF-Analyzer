@@ -1,6 +1,8 @@
-# Chat-with-Doc-LLM-PDF-Analyzer
-Chat with Doc is a personal AI-powered PDF analyst. Just upload a document 📄, ask any question , and get intelligent answers 💡 extracted straight from the content.
+# 📄 Chat with Doc - LLM PDF Analyzer 🦙💬
 
+Welcome to **Chat with Doc**, a powerful AI assistant that allows you to **chat with your PDF documents**! Just upload any PDF and ask questions – our intelligent bot will give you meaningful answers extracted from your file using **LLama 3.3**, **LangChain**, and **RAG (Retrieval-Augmented Generation)**.
+
+---
 ### Key Functionalities 🌟
 
 * 📤Upload any PDF document
@@ -45,6 +47,7 @@ streamlit run main.py
 ```
 
 ### Working Demo:
-![llm_pdf_demo](https://github.com/user-attachments/assets/09071cf4-978a-4b4a-aae9-6a86b972b553)
+![llm_pdf_demo](https://github.com/user-attachments/assets/a540b157-9ad4-4eda-8872-822fb246ee8b)
+
 
 
