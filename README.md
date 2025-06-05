@@ -51,8 +51,8 @@ streamlit run main.py
 Watch the AI in action! Just upload your PDF 📄 and ask your questions 💬 — the bot reads and responds in real-time 🧠⚡
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a540b157-9ad4-4eda-8872-822fb246ee8b" width="400" alt="llm_pdf_demo"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/a540b157-9ad4-4eda-8872-822fb246ee8b" width="200" alt="llm_pdf_demo"/>
+</p>2
 
 
 
